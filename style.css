@@ -1,5 +1,5 @@
 body {
-	font-family : 'Snell Roundhand Script', 'Comic Sans MS', "Montserrat", "Helvetica", Arial, sans-serif;
+	font-family : 'Press Start 2P', 'Snell Roundhand Script', 'Comic Sans MS', "Montserrat", "Helvetica", Arial, sans-serif;
 	font-size: 16px;
 	background-color: black;
 	color: white;
@@ -9,6 +9,7 @@ footer {
 	text-align: right;
 	padding-top: 15px;
 	padding-right: 70px;
+	min-height: 100%;
 }
 
 main {
