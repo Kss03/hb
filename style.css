@@ -1,35 +1,25 @@
 body {
-	margin: 0;
-	min-width: 960px;
-	font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+	font-family : 'Snell Roundhand Script', 'Comic Sans MS';
 	font-size: 16px;
-	line-height: 32px;
-	color: #222222;
-	background-color: #f2f4f6;
-	background-image: url();
-	background-repeat: no-repeat;
-	background-position: top center;
+	background-color: black;
+	color: white;
 }
 
-.container {
-	max-width: 928px;
-	margin: 0 auto;
-	padding: 0 16px;
+footer {
+	text-align: right;
+	padding-top: 15px;
+	padding-right: 70px;
 }
 
-.main-image {
-	margin-bottom: 25px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.heading {
-	margin: 0 0 16px;
-	font-family: "Old standart TT", "Times", "Times New Roman", serif;
-	font-size: 88px;
-	line-height: 96px;
-	font-weight: 400;
+main {
 	text-align: center;
+	padding-top: 20px;
 }
 
+h1 {
+	font-size: 50px;
+}
+
+img {
+	max-width: 100%;
+}
